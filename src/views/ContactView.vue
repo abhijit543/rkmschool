@@ -1,7 +1,7 @@
 <template>
   <div class="bg-contact">
     <div class="container contact-us">
-      <h2 class="contact-title">Send us a message now!</h2>
+      <h2 class="contact-title">এখন আমাদের একটি বার্তা পাঠান!</h2>
       <form ref="form" @submit.prevent="sendEmail" v-if="!thanksMessageShown" class="form">
         <div class="form-group">
           <label for="from_name">Name</label>
@@ -38,7 +38,6 @@
 </template>
 
 <script>
-import { reactive, ref } from "vue";
 import emailjs from "@emailjs/browser";
 
 export default {
