@@ -1,0 +1,243 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "preview": "https://chat.whatsapp.com/E2VatmLInQyBB6ulMOPSk4",
+      "url": "/images/whtsapp-icon.png",
+      "content": "Please join our whatsapp community",
+      "format": "images",
+      "isDownload": true
+    },
+    {
+      "id": 2,
+      "preview": "",
+      "url": "/images/thumb-toyota.jpg",
+      "content": "Please download this",
+      "format": "pdf",
+      "isDownload": true
+    },
+    {
+      "id": 3,
+      "preview": "/documents/csr-impact-assessment-report-fy-2023-24.pdf",
+      "url": "/images/thumb-toyota.jpg",
+      "content": "Please download this",
+      "format": "image",
+      "isDownload": true
+    }
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "url": "/images/rajgram-full-view.jpg",
+      "carouselItem": true
+    },
+    {
+      "id": 2,
+      "url": "/images/rajgram-full-view.jpg",
+      "carouselItem": true
+    }
+  ],
+  "inspire": [
+    {
+      "id": 1,
+      "url": "/images/card-1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "/images/card-2.jpg"
+    },
+    {
+      "id": 3,
+      "url": "/images/card-3.jpg"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "carouselItem": true
+    },
+    {
+      "id": 2,
+      "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "carouselItem": true
+    },
+    {
+      "id": 3,
+      "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "carouselItem": true
+    }
+  ],
+  "results_rkm": [
+    {
+      "id": 2024,
+      "url": "/images/2011.jpg",
+      "isOpen": true
+    },
+    {
+      "id": 2023,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2022,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2021,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2020,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2019,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2018,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2017,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2016,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2015,
+      "url": "/images/2013.jpg"
+    },
+    {
+      "id": 2014,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2013,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2012,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    },
+    {
+      "id": 2011,
+      "url": "/images/2011.jpg",
+      "isOpen": false
+    }
+  ],
+  "admission_notice": [
+    {
+      "title": "admission1",
+      "date": "01st Feb 2023",
+      "url": "/images/notice1.txt"
+    },
+    {
+      "title": "admission1",
+      "date": "01st Feb 2023",
+      "url": "/images/notice2.txt"
+    },
+    {
+      "title": "admission1",
+      "date": "01st Feb 2023",
+      "url": "/images/notice3.txt"
+    },
+    {
+      "title": "admission1",
+      "date": "01st Feb 2023",
+      "url": "/images/notice4.txt"
+    },
+    {
+      "title": "admission1",
+      "date": "01st Feb 2023",
+      "url": "/images/notice5.txt"
+    },
+    {
+      "title": "admission1",
+      "date": "01st Feb 2023",
+      "url": "/images/notice6.txt"
+    }
+  ],
+  "ad": [
+    {
+      "img1": "/images/card-1.jpg",
+      "img2": "/images/card-2.jpg"
+    }
+  ],
+  "gallery_image": [
+    {
+      "title": "campus1",
+      "src": "/images/Campus.jpg"
+    },
+    {
+      "title": "Garden",
+      "src": "/images/Garden.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    },
+    {
+      "title": "Memory",
+      "src": "/images/DownMemoryLane.jpg"
+    }
+  ],
+  "ytvideos": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up",
+      "image": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    },
+    {
+      "id": "8xT0vWporWs",
+      "title": "Rick Astley - Never Gonna Give You Up",
+      "image": "https://img.youtube.com/vi/8xT0vWporWs/hqdefault.jpg"
+    },
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up",
+      "image": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    }
+  ]
+}
